@@ -43,6 +43,7 @@
         'views/dashboard.xml',
         'views/student_class_absent.xml',
         'views/student_subject_absent.xml',
+        'views/student_subject_absent_crawl.xml',
         'views/student_class_tuition_fee.xml',
         'views/custom_noti.xml',
         'views/subject.xml',
